@@ -64,6 +64,8 @@ SolidWorks-Projects/
     └── Part6.SLDPRT
 
 ```
+<img width="640" height="480" alt="original" src="https://github.com/user-attachments/assets/0a324b5b-1c1d-4f8c-8e06-4db2cee8ee72" />
+
 
 ## Author
 Biomedical Engineering Student | CAD & Mechanical Design Enthusiast
