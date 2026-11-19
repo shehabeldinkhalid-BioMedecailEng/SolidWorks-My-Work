@@ -56,15 +56,13 @@ SolidWorks-Projects/
 │   └── short_pin.SLDPRT
 │
 ├── Part-Modeling/
-│   ├── Part1.SLDPRT
-│   ├── Part2.SLDPRT
-│   ├── Part3.SLDPRT
-│   ├── Part4.SLDPRT
-│   ├── Part5.SLDPRT
-│   └── Part6.SLDPRT
-│
-└── Images/
-    └── Project-Screenshots/
+    ├── Part1.SLDPRT
+    ├── Part2.SLDPRT
+    ├── Part3.SLDPRT
+    ├── Part4.SLDPRT
+    ├── Part5.SLDPRT
+    └── Part6.SLDPRT
+
 ```
 
 ## Author
